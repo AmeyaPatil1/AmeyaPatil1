@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AmeyaPatil1
-- 👀 I’m interested in data
-- 🌱 I’m currently learning Data science
 
 
 <!---
